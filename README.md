@@ -1,4 +1,3 @@
-Objective:
 Create a fully functional Node.js application that interacts with a MongoDB database using Mongoose, implements at least three API routes, and follows proper coding practices for readability, maintainability, and version control.
 
 1.Create a Node.js Application:
